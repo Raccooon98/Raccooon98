@@ -1,7 +1,7 @@
-###• Hi I'm YongHyeon Jeon 👋
-###• 😎 I’m interested in back-end
-###• 💻 I'm learning C/C++/Python/ROS/Django/OpenCV
-###• 📫 How to reach me: redbull1171@gmail.com / junbs1498@likelion.org
+## •Hi I'm YongHyeon Jeon 👋
+## •😎 I’m interested in back-end
+## •💻 I'm learning C/C++/Python/ROS/Django/OpenCV
+## •📫 How to reach me: redbull1171@gmail.com / junbs1498@likelion.org
 <!--
 **Raccooon98/Raccooon98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
