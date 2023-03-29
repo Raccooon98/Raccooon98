@@ -2,6 +2,7 @@
 ### •😎 I’m interested in back-end
 ### •💻 I'm learning C/C++/Python/ROS/Django/OpenCV
 ### •📫 How to reach me: redbull1171@gmail.com / junbs1498@likelion.org
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raccooon98&show_icons=true&theme=radical)
 <!--
 **Raccooon98/Raccooon98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
