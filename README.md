@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yong%20Hyeon&fontSize=90&Theme=blueberry)
 
-### Hi I'm YongHyeon Jeon 👋
-### 😎 I’m interested in back-end
-### 📫 How to reach me: redbull1171@gmail.com / junbs1498@likelion.org
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raccooon98&show_icons=true&theme=blueberry)
+
+<h1 align="center">Hi, I'm YongHyeon Jeon 👋</h1>
+<h3 align="center">😎 I’m interested in back-end</h3>
+<h2>📫 How to reach me: redbull1171@gmail.com / junbs1498@likelion.org</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raccooon98&show_icons=true&locale=en" alt="Raccooon98" /></p>
+
 ### 😄 What I used
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=black"> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 ---
