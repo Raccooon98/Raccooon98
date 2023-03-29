@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yong%20Hyeon&fontSize=90&Theme=blueberry)
 
-### •Hi I'm YongHyeon Jeon 👋
+<center> ### Hi I'm YongHyeon Jeon 👋 </center>
 ### •😎 I’m interested in back-end
 ### •💻 I'm learning C/C++/Python/ROS/Django/OpenCV
 ### •📫 How to reach me: redbull1171@gmail.com / junbs1498@likelion.org
