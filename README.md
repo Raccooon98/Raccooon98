@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yong%20Hyeon&fontSize=90&Theme=blueberry)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BFDAF7&height=300&section=header&text=Yong%20Hyeon&fontSize=90&Theme=blueberry)
 
 
 <h1 align="center">안녕하세요 전용현입니다!👋</h1>
